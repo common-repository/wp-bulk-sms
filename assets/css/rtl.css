@@ -1,0 +1,17 @@
+/** Welcome page **/
+.wp-sms-to-bulk-welcome .normal-section .left {
+    float: right;
+    text-align: right;
+}
+
+.wp-sms-to-bulk-welcome .normal-section h2 {
+    text-align: right;
+}
+
+.wp-sms-to-bulk-welcome .normal-section .right {
+    float: left;
+}
+
+.wp-sms-to-bulk-welcome .widefat td:first-child {
+    text-align: right;
+}
